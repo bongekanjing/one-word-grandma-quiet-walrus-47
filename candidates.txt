@@ -1,0 +1,20 @@
+Candidates — one word my grandma would text about AI (must be ONE word, 1-30 chars):
+
+  Witchcraft     10  she calls it magic
+  Poppycock       9  the archetypal grandma word for nonsense, vs AI's confident nonsense
+  Hogwash         7  same idea, flatter
+  Balderdash     10  too literary, sounds performed
+  artifishal     10  typo joke, clever but insidery
+  gogle           5  typo joke, needs explaining
+  Hallelujah     10  religious grandma, but not about AI
+  Speakup         7  she can't hear it
+  Devil           5  too dark
+  Skynet          6  too online, not grandma
+  k               1  funny but no joke
+  Whoisthis      9  multi-word, breaks the "one word" rule
+  Useless         7  mean without a twist
+  Marvellous     10  warm but no punchline
+
+Pick: "Poppycock" — the definitive grandmother word for nonsense, and the whole joke is that the most
+advanced machine in history gets dismissed in one syllable of Victorian disapproval. Fresh, warm,
+specific, and it pays off entirely on the last consonant.
